@@ -27,6 +27,7 @@ export default class MyDocument extends Document {
             href="./assets/images/favicon.ico"
             type="image/x-icon"
           />
+          <meta name="google-site-verification" content="PlTSq0pDGUHnTwPeMI_HSbNHGeFsZkF9vCgNcAlN9c4" />
           <link href="./assets/css/bootstrap.min.css" rel="stylesheet" />
         </Head>
         <body>
